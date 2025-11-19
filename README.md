@@ -1,4 +1,37 @@
 # Hi, I'm Gokhan 👋
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Engineer-%F0%9F%9A%80-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Product%20Analytics-%F0%9F%93%88-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM%20Workflows-%F0%9F%A4%96-lightgrey?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/SQL-025E8C?logo=postgresql&logoColor=white&style=flat" />
+  
+  <!-- Data & Cloud -->
+  <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Microsoft%20Fabric-742774?logo=microsoft&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/DuckDB-FFF000?logo=duckdb&logoColor=black&style=flat" />
+
+  <!-- Pipelines -->
+  <img src="https://img.shields.io/badge/dbt-F74300?logo=dbt&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white&style=flat" />
+
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black&style=flat" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Great%20Expectations-0E5A8A?style=flat" />
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?logo=githubactions&logoColor=white&style=flat" />
+
+  <!-- LLM / AI -->
+  <img src="https://img.shields.io/badge/FAISS-5C2D91?style=flat" />
+  <img src="https://img.shields.io/badge/LLM%20Pipelines-%F0%9F%A4%96-green?style=flat" />
+</p>
+
 
 I’m a Product Analytics–focused **Data Engineer** with 7+ years of experience designing  
 metric-ready datasets, scalable pipelines, and semantic models that power activation,  
