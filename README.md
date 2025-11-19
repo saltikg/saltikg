@@ -88,13 +88,6 @@ tracking validation to medallion/lakehouse modeling and LLM-powered automation.
 - Built medallion architecture pipelines powering experimentation, funnel analytics, and user journeys  
 - Collaborated with PM, DS, and Engineering on tracking, metric definitions, and feature-readiness datasets  
 
-### **Co-Founder & Product Manager**  
-**Technoface — Istanbul, Turkey (2004–2017)**  
-- Translated customer requirements into engineering-ready product specifications  
-- Used analytics and behavior patterns to guide product decisions for retail & e-commerce  
-- Led cross-functional teams across design, engineering, and business stakeholders  
-
----
 
 ## 📌 Featured Project
 
@@ -109,15 +102,4 @@ End-to-end Python/Flask/DuckDB system that:
 
 The public repo contains **architecture, safe examples, utils, and exploration notebooks**.
 
----
-
-## 🎓 Education
-**B.S. in Computer & Educational Technology**  
-Boğaziçi University — Istanbul, Turkey  
-Ranked among the top universities in Turkey
-
----
-
-📫 **Contact:** gokhansaltik@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/gokhansaltik/  
-🌐 **Location:** Palo Alto, CA — US Citizen
