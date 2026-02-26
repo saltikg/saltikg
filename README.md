@@ -45,6 +45,7 @@ AI-assisted content orchestration and media automation platform designed with da
 - Built an end-to-end pipeline: ingest -> normalize -> rank (embeddings) -> generate (LLM) -> render (FFmpeg) -> publish
 - Implemented production-style safeguards: idempotent runs, backfills, deduplication, retries, rate limiting, and run logging
 - Used DuckDB as an analytical store for rapid iteration, monitoring, and reporting
+- Added data quality checks and run-level metrics (freshness, completeness, pipeline success rate) to support SLA-style monitoring.
 
 Repo: https://github.com/saltikg/blog-factory
 
