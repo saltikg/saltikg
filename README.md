@@ -38,7 +38,7 @@ I specialize in building reliable data foundations — from event instrumentatio
 
 ---
 
-## Featured Project
+## 📌 Featured Project
 ### Minti Studio (Blog Factory)
 AI assisted content orchestration and media automation platform built with a Data Engineering mindset.
 
@@ -95,17 +95,5 @@ Repo: https://github.com/saltikg/blog-factory
 - Collaborated with PM, DS, and Engineering on tracking, metric definitions, and feature-readiness datasets  
 
 
-## 📌 Featured Project
-
-### **MintiProduct — AI-powered Content Automation Engine**  
-*(See pinned repository)*  
-End-to-end Python/Flask/DuckDB system that:
-- ingests Google Trends + YouTube transcripts  
-- runs embedding + semantic ranking workflows  
-- generates SEO-friendly content via LLMs  
-- builds Instagram Reels automatically (FFmpeg/OpenCV)  
-- orchestrates seasonal and automated publishing pipelines  
-
-The public repo contains **architecture, safe examples, utils, and exploration notebooks**.
-
+ 
 🔗 **LinkedIn:** https://www.linkedin.com/in/gokhansaltik/  
