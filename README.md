@@ -39,9 +39,11 @@ I specialize in building reliable data foundations — from event instrumentatio
 ---
 
 ## 📌 Featured Project
-### Minti Studio
-AI-assisted content orchestration and media automation platform designed with data engineering principles for reliability, repeatability, and fast iteration.
+### Minti Studio - AI assisted content to video publishing platform
+Minti Studio is an AI assisted workflow that automates content repurposing end to end, from ingesting source content to generating assets and publishing to channels. Designed with data engineering principles for reliability, repeatability, and fast iteration.
 
+- Integrated scheduling and publishing via cron based jobs and platform APIs (YouTube, Facebook, Instagram) plus analytics APIs for monitoring and reporting.
+- Used Whisper for transcription and OpenAI APIs for content generation and enrichment within the pipeline.
 - Built an end-to-end pipeline: ingest -> normalize -> rank (embeddings) -> generate (LLM) -> render (FFmpeg) -> publish
 - Implemented production-style safeguards: idempotent runs, backfills, deduplication, retries, rate limiting, and run logging
 - Used DuckDB as an analytical store for rapid iteration, monitoring, and reporting
