@@ -39,14 +39,15 @@ I specialize in building reliable data foundations — from event instrumentatio
 ---
 
 ## 📌 Featured Project
-### Minti Studio (Blog Factory)
-AI assisted content orchestration and media automation platform built with a Data Engineering mindset.
+### Minti Studio
+AI-assisted content orchestration and media automation platform designed with data engineering principles for reliability, repeatability, and fast iteration.
 
-- End to end pipeline: ingest -> normalize -> rank (embeddings) -> generate (LLM) -> render (FFmpeg) -> publish
-- Reliability: idempotent runs, backfills, dedupe, retries, rate limits, run logs
-- Storage: DuckDB tables for fast iteration and reporting
+- Built an end-to-end pipeline: ingest -> normalize -> rank (embeddings) -> generate (LLM) -> render (FFmpeg) -> publish
+- Implemented production-style safeguards: idempotent runs, backfills, deduplication, retries, rate limiting, and run logging
+- Used DuckDB as an analytical store for rapid iteration, monitoring, and reporting
 
 Repo: https://github.com/saltikg/blog-factory
+
 
 ## 🔧 Technical Skill Areas
 
