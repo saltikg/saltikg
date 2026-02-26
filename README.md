@@ -48,6 +48,7 @@ AI-assisted content orchestration and media automation platform designed with da
 - Added data quality checks and run-level metrics (freshness, completeness, pipeline success rate) to support SLA-style monitoring.
 
 ![Minti Studio pipeline](https://raw.githubusercontent.com/saltikg/blog-factory/main/docs/minti-studio-pipeline.svg)
+![Minti Studio pipeline](docs/minti-studio-pipeline.svg)
 
 Repo: https://github.com/saltikg/blog-factory
 
