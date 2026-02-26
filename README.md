@@ -1,6 +1,3 @@
-## About me
-Product Analytics odaklı Data Engineer. Metric ready datasetler, güvenilir ETL katmanları ve semantic modeling ile ürün ve growth kararlarını destekleyen sistemler kuruyorum. Bu repo, aynı yaklaşımı AI content orchestration ve media automation tarafına taşıyan yan projem.
-
 # Hi, I'm Gokhan 👋
 <p align="center">
   <img src="https://img.shields.io/badge/Data%20Engineer-%F0%9F%9A%80-blue?style=for-the-badge" />
