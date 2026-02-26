@@ -35,13 +35,10 @@ Product Analytics odaklı Data Engineer. Metric ready datasetler, güvenilir ETL
   <img src="https://img.shields.io/badge/LLM%20Pipelines-%F0%9F%A4%96-green?style=flat" />
 </p>
 
+I’m a Product Analytics–focused **Data Engineer** with 7+ years of experience designing metric-ready datasets, scalable pipelines, and semantic models that power activation, engagement, and growth decisions across product and marketing surfaces.
 
-I’m a Product Analytics–focused **Data Engineer** with 7+ years of experience designing  
-metric-ready datasets, scalable pipelines, and semantic models that power activation,  
-engagement, and growth decisions across product and marketing surfaces.
+I specialize in building reliable data foundations — from event instrumentation and tracking validation to medallion/lakehouse modeling and LLM-powered automation.
 
-I specialize in building reliable data foundations — from event instrumentation and  
-tracking validation to medallion/lakehouse modeling and LLM-powered automation.
 ---
 
 ## Featured Project
