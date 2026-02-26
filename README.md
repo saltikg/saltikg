@@ -49,8 +49,6 @@ AI-assisted content orchestration and media automation platform designed with da
 
 ![Minti Studio pipeline](https://github.com/saltikg/blog-factory/raw/main/docs/minti-studio-pipeline.svg)
 
-![Minti Studio pipeline](docs/minti-studio-pipeline.svg)
-
 Repo: https://github.com/saltikg/blog-factory
 
 
